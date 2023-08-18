@@ -1,4 +1,7 @@
+transformers
 pandas
 numpy
 seaborn
--e .
+mlflow
+scikit-learn
+#-e .

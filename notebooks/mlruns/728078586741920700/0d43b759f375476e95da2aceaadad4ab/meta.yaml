@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/notebooks/mlruns/728078586741920700/0d43b759f375476e95da2aceaadad4ab/artifacts
+end_time: 1692219578339
+entry_point_name: ''
+experiment_id: '728078586741920700'
+lifecycle_stage: active
+run_id: 0d43b759f375476e95da2aceaadad4ab
+run_name: sassy-robin-813
+run_uuid: 0d43b759f375476e95da2aceaadad4ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692219578147
+status: 3
+tags: []
+user_id: vboxuser
