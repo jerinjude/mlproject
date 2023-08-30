@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/8eee30b848ee4048ab9e2475b94dbdfd/artifacts
+end_time: 1693077496966
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8eee30b848ee4048ab9e2475b94dbdfd
+run_name: colorful-pig-600
+run_uuid: 8eee30b848ee4048ab9e2475b94dbdfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693077496946
+status: 3
+tags: []
+user_id: vboxuser

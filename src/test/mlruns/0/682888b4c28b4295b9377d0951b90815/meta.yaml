@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/682888b4c28b4295b9377d0951b90815/artifacts
+end_time: 1693081946908
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 682888b4c28b4295b9377d0951b90815
+run_name: brawny-squirrel-86
+run_uuid: 682888b4c28b4295b9377d0951b90815
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693081939880
+status: 3
+tags: []
+user_id: vboxuser

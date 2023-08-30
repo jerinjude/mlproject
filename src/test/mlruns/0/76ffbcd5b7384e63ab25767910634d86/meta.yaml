@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/76ffbcd5b7384e63ab25767910634d86/artifacts
+end_time: 1693079379637
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76ffbcd5b7384e63ab25767910634d86
+run_name: salty-carp-519
+run_uuid: 76ffbcd5b7384e63ab25767910634d86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079379588
+status: 3
+tags: []
+user_id: vboxuser

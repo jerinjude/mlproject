@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/b6217a9c145846b0b37a8c116f6b295a/artifacts
+end_time: 1693079379450
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6217a9c145846b0b37a8c116f6b295a
+run_name: skittish-sheep-976
+run_uuid: b6217a9c145846b0b37a8c116f6b295a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079379398
+status: 3
+tags: []
+user_id: vboxuser

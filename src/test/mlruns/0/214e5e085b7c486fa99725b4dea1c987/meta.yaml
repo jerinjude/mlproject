@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/214e5e085b7c486fa99725b4dea1c987/artifacts
+end_time: 1693079194912
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 214e5e085b7c486fa99725b4dea1c987
+run_name: bittersweet-mare-932
+run_uuid: 214e5e085b7c486fa99725b4dea1c987
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079194868
+status: 3
+tags: []
+user_id: vboxuser

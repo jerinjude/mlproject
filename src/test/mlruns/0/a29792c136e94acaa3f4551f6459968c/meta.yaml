@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/a29792c136e94acaa3f4551f6459968c/artifacts
+end_time: 1693079013754
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a29792c136e94acaa3f4551f6459968c
+run_name: unequaled-mink-963
+run_uuid: a29792c136e94acaa3f4551f6459968c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079013713
+status: 3
+tags: []
+user_id: vboxuser

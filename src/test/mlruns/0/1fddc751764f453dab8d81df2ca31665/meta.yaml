@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/1fddc751764f453dab8d81df2ca31665/artifacts
+end_time: 1693079380621
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1fddc751764f453dab8d81df2ca31665
+run_name: adventurous-owl-511
+run_uuid: 1fddc751764f453dab8d81df2ca31665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079380542
+status: 3
+tags: []
+user_id: vboxuser

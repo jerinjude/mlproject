@@ -1,0 +1,15 @@
+artifact_uri: file:/home/vboxuser/mlprojects/sample/notebooks/mlflow/0/cde1effe56c24d61ba87cb997dd1132b/artifacts
+end_time: 1692854491792
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: cde1effe56c24d61ba87cb997dd1132b
+run_uuid: cde1effe56c24d61ba87cb997dd1132b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692854491362
+status: 3
+tags: []
+user_id: vboxuser

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/011692a507054a229a5caf27d6b1d2f1/artifacts
+end_time: 1693079014532
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 011692a507054a229a5caf27d6b1d2f1
+run_name: silent-lynx-591
+run_uuid: 011692a507054a229a5caf27d6b1d2f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079014489
+status: 3
+tags: []
+user_id: vboxuser

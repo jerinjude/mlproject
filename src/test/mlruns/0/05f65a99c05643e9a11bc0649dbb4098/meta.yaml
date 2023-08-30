@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/05f65a99c05643e9a11bc0649dbb4098/artifacts
+end_time: 1693079195910
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05f65a99c05643e9a11bc0649dbb4098
+run_name: exultant-auk-806
+run_uuid: 05f65a99c05643e9a11bc0649dbb4098
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079195861
+status: 3
+tags: []
+user_id: vboxuser

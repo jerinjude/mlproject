@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/a1f3a852edc747d5b577bee37a70fbac/artifacts
+end_time: 1693079014412
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1f3a852edc747d5b577bee37a70fbac
+run_name: bemused-gull-296
+run_uuid: a1f3a852edc747d5b577bee37a70fbac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079014368
+status: 3
+tags: []
+user_id: vboxuser

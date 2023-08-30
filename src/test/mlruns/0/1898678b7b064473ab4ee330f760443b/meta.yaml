@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/1898678b7b064473ab4ee330f760443b/artifacts
+end_time: 1693079014681
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1898678b7b064473ab4ee330f760443b
+run_name: masked-fly-515
+run_uuid: 1898678b7b064473ab4ee330f760443b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079014624
+status: 3
+tags: []
+user_id: vboxuser

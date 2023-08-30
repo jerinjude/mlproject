@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/e3493565ffa04187930628abd22f4838/artifacts
+end_time: 1693079382779
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3493565ffa04187930628abd22f4838
+run_name: dapper-moose-265
+run_uuid: e3493565ffa04187930628abd22f4838
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079382732
+status: 3
+tags: []
+user_id: vboxuser

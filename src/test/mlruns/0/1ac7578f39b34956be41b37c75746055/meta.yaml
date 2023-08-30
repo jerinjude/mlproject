@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/1ac7578f39b34956be41b37c75746055/artifacts
+end_time: 1693079197192
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ac7578f39b34956be41b37c75746055
+run_name: debonair-whale-780
+run_uuid: 1ac7578f39b34956be41b37c75746055
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079197132
+status: 3
+tags: []
+user_id: vboxuser

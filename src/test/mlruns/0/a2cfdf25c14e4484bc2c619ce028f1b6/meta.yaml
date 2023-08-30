@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/a2cfdf25c14e4484bc2c619ce028f1b6/artifacts
+end_time: 1693079012041
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2cfdf25c14e4484bc2c619ce028f1b6
+run_name: kindly-smelt-278
+run_uuid: a2cfdf25c14e4484bc2c619ce028f1b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079011992
+status: 3
+tags: []
+user_id: vboxuser

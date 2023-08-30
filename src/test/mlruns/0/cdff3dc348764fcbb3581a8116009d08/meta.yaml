@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/cdff3dc348764fcbb3581a8116009d08/artifacts
+end_time: 1693079380396
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cdff3dc348764fcbb3581a8116009d08
+run_name: fortunate-goose-177
+run_uuid: cdff3dc348764fcbb3581a8116009d08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079380340
+status: 3
+tags: []
+user_id: vboxuser

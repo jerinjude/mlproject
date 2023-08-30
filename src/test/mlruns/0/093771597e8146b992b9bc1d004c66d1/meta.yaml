@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/093771597e8146b992b9bc1d004c66d1/artifacts
+end_time: 1693079382408
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 093771597e8146b992b9bc1d004c66d1
+run_name: big-owl-115
+run_uuid: 093771597e8146b992b9bc1d004c66d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079382339
+status: 3
+tags: []
+user_id: vboxuser

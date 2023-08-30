@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/abb48950bfb34aafbf94514e96216a60/artifacts
+end_time: 1693076870137
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abb48950bfb34aafbf94514e96216a60
+run_name: crawling-eel-200
+run_uuid: abb48950bfb34aafbf94514e96216a60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693076868314
+status: 3
+tags: []
+user_id: vboxuser

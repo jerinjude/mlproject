@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/5a79d0cdef0849daa6603c79538349f7/artifacts
+end_time: 1693079381056
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a79d0cdef0849daa6603c79538349f7
+run_name: blushing-cod-857
+run_uuid: 5a79d0cdef0849daa6603c79538349f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079380991
+status: 3
+tags: []
+user_id: vboxuser

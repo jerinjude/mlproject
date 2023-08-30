@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/ed7a3d79239d471e8e8e18cc888ccc45/artifacts
+end_time: 1693079012445
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed7a3d79239d471e8e8e18cc888ccc45
+run_name: welcoming-smelt-767
+run_uuid: ed7a3d79239d471e8e8e18cc888ccc45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079012395
+status: 3
+tags: []
+user_id: vboxuser

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/f660fecdf8bb44149abdba5ace466c06/artifacts
+end_time: 1693079195761
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f660fecdf8bb44149abdba5ace466c06
+run_name: funny-squid-238
+run_uuid: f660fecdf8bb44149abdba5ace466c06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079195697
+status: 3
+tags: []
+user_id: vboxuser

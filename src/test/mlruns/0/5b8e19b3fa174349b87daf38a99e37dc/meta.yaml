@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/5b8e19b3fa174349b87daf38a99e37dc/artifacts
+end_time: 1693079197033
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b8e19b3fa174349b87daf38a99e37dc
+run_name: whimsical-ox-608
+run_uuid: 5b8e19b3fa174349b87daf38a99e37dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079196971
+status: 3
+tags: []
+user_id: vboxuser

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/0c43de75e96647f88fa4dfbe6bdf5bb8/artifacts
+end_time: 1693079197366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c43de75e96647f88fa4dfbe6bdf5bb8
+run_name: dashing-auk-739
+run_uuid: 0c43de75e96647f88fa4dfbe6bdf5bb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079197294
+status: 3
+tags: []
+user_id: vboxuser

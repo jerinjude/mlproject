@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/23afae70396343d7a2c9c5da5f0b6cf8/artifacts
+end_time: 1693079379248
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23afae70396343d7a2c9c5da5f0b6cf8
+run_name: skillful-hawk-988
+run_uuid: 23afae70396343d7a2c9c5da5f0b6cf8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079379169
+status: 3
+tags: []
+user_id: vboxuser

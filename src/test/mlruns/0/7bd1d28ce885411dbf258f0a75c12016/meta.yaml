@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/7bd1d28ce885411dbf258f0a75c12016/artifacts
+end_time: 1693079196245
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7bd1d28ce885411dbf258f0a75c12016
+run_name: sneaky-bat-805
+run_uuid: 7bd1d28ce885411dbf258f0a75c12016
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079196187
+status: 3
+tags: []
+user_id: vboxuser

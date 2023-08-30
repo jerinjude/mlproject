@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/1a26c19e30e140c892db3d3953579b9f/artifacts
+end_time: 1693079382208
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a26c19e30e140c892db3d3953579b9f
+run_name: stately-fawn-485
+run_uuid: 1a26c19e30e140c892db3d3953579b9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079382160
+status: 3
+tags: []
+user_id: vboxuser

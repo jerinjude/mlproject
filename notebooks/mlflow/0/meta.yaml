@@ -1,0 +1,4 @@
+artifact_location: file:/home/vboxuser/mlprojects/sample/notebooks/mlflow/0
+experiment_id: '0'
+lifecycle_stage: active
+name: ml_topic_classification_exp

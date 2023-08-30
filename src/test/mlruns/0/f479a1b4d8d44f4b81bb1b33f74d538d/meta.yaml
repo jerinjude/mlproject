@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/f479a1b4d8d44f4b81bb1b33f74d538d/artifacts
+end_time: 1693079196533
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f479a1b4d8d44f4b81bb1b33f74d538d
+run_name: clumsy-lamb-75
+run_uuid: f479a1b4d8d44f4b81bb1b33f74d538d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079196477
+status: 3
+tags: []
+user_id: vboxuser

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/a6b850b225a44bbb8d8d9a3b606e1c43/artifacts
+end_time: 1693079012306
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6b850b225a44bbb8d8d9a3b606e1c43
+run_name: valuable-doe-754
+run_uuid: a6b850b225a44bbb8d8d9a3b606e1c43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079012260
+status: 3
+tags: []
+user_id: vboxuser

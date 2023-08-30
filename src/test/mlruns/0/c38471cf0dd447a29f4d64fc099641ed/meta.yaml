@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/c38471cf0dd447a29f4d64fc099641ed/artifacts
+end_time: 1693079194752
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c38471cf0dd447a29f4d64fc099641ed
+run_name: clean-calf-70
+run_uuid: c38471cf0dd447a29f4d64fc099641ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079194701
+status: 3
+tags: []
+user_id: vboxuser

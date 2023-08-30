@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/7a4d5dc7282741479f5eac893ad07e7d/artifacts
+end_time: 1693079014980
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a4d5dc7282741479f5eac893ad07e7d
+run_name: flawless-wolf-503
+run_uuid: 7a4d5dc7282741479f5eac893ad07e7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079014931
+status: 3
+tags: []
+user_id: vboxuser

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/ed4c4b4e64754d0aa2aa327077efd320/artifacts
+end_time: 1693078709994
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed4c4b4e64754d0aa2aa327077efd320
+run_name: salty-foal-822
+run_uuid: ed4c4b4e64754d0aa2aa327077efd320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693078706997
+status: 3
+tags: []
+user_id: vboxuser

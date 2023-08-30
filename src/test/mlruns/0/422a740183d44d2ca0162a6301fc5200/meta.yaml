@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/422a740183d44d2ca0162a6301fc5200/artifacts
+end_time: 1693079014022
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 422a740183d44d2ca0162a6301fc5200
+run_name: persistent-quail-712
+run_uuid: 422a740183d44d2ca0162a6301fc5200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079013975
+status: 3
+tags: []
+user_id: vboxuser

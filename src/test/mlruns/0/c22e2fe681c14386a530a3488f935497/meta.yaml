@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/c22e2fe681c14386a530a3488f935497/artifacts
+end_time: 1693079014281
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c22e2fe681c14386a530a3488f935497
+run_name: merciful-ape-870
+run_uuid: c22e2fe681c14386a530a3488f935497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079014230
+status: 3
+tags: []
+user_id: vboxuser

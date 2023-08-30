@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/032dffb65c7a466da2dd358d764a8460/artifacts
+end_time: 1693246054532
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 032dffb65c7a466da2dd358d764a8460
+run_name: placid-shrimp-289
+run_uuid: 032dffb65c7a466da2dd358d764a8460
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693246043822
+status: 3
+tags: []
+user_id: vboxuser

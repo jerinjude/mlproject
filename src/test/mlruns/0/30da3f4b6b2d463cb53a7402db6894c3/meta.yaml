@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/30da3f4b6b2d463cb53a7402db6894c3/artifacts
+end_time: 1693079196390
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30da3f4b6b2d463cb53a7402db6894c3
+run_name: serious-wren-771
+run_uuid: 30da3f4b6b2d463cb53a7402db6894c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079196341
+status: 3
+tags: []
+user_id: vboxuser

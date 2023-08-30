@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/927a70523cf34e47a0f8bb69d1d58e05/artifacts
+end_time: 1693079381296
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 927a70523cf34e47a0f8bb69d1d58e05
+run_name: burly-panda-499
+run_uuid: 927a70523cf34e47a0f8bb69d1d58e05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079381228
+status: 3
+tags: []
+user_id: vboxuser

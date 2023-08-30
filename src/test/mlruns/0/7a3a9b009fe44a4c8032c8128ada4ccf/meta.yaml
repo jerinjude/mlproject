@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/7a3a9b009fe44a4c8032c8128ada4ccf/artifacts
+end_time: 1693079196706
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a3a9b009fe44a4c8032c8128ada4ccf
+run_name: fun-hound-523
+run_uuid: 7a3a9b009fe44a4c8032c8128ada4ccf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079196635
+status: 3
+tags: []
+user_id: vboxuser

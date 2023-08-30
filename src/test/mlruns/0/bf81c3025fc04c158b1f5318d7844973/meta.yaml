@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/bf81c3025fc04c158b1f5318d7844973/artifacts
+end_time: 1693079012177
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf81c3025fc04c158b1f5318d7844973
+run_name: luxuriant-smelt-798
+run_uuid: bf81c3025fc04c158b1f5318d7844973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079012129
+status: 3
+tags: []
+user_id: vboxuser

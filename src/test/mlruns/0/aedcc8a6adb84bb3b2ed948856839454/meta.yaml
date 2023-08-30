@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/aedcc8a6adb84bb3b2ed948856839454/artifacts
+end_time: 1693079194593
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aedcc8a6adb84bb3b2ed948856839454
+run_name: resilient-asp-577
+run_uuid: aedcc8a6adb84bb3b2ed948856839454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079194537
+status: 3
+tags: []
+user_id: vboxuser

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/1024f5ef3057449699a2028daadb66cc/artifacts
+end_time: 1693079014835
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1024f5ef3057449699a2028daadb66cc
+run_name: exultant-moose-523
+run_uuid: 1024f5ef3057449699a2028daadb66cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079014776
+status: 3
+tags: []
+user_id: vboxuser

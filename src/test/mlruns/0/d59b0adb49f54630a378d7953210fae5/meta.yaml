@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/d59b0adb49f54630a378d7953210fae5/artifacts
+end_time: 1693079196086
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d59b0adb49f54630a378d7953210fae5
+run_name: lyrical-flea-6
+run_uuid: d59b0adb49f54630a378d7953210fae5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079196025
+status: 3
+tags: []
+user_id: vboxuser

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/968b622f61f44327848aadc616a4c411/artifacts
+end_time: 1693079195096
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 968b622f61f44327848aadc616a4c411
+run_name: able-tern-230
+run_uuid: 968b622f61f44327848aadc616a4c411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693079195040
+status: 3
+tags: []
+user_id: vboxuser
