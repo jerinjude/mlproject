@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/16a0e0779b354d18a5a8f718dada99aa/artifacts
+end_time: 1693666505139
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16a0e0779b354d18a5a8f718dada99aa
+run_name: shivering-chimp-303
+run_uuid: 16a0e0779b354d18a5a8f718dada99aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693666501127
+status: 3
+tags: []
+user_id: vboxuser

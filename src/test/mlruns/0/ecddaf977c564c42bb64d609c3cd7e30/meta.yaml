@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/ecddaf977c564c42bb64d609c3cd7e30/artifacts
+end_time: 1693665879610
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ecddaf977c564c42bb64d609c3cd7e30
+run_name: placid-dove-556
+run_uuid: ecddaf977c564c42bb64d609c3cd7e30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693665866197
+status: 3
+tags: []
+user_id: vboxuser

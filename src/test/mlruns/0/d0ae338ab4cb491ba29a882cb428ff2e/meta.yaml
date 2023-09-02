@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/d0ae338ab4cb491ba29a882cb428ff2e/artifacts
+end_time: 1693666858648
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0ae338ab4cb491ba29a882cb428ff2e
+run_name: honorable-kite-498
+run_uuid: d0ae338ab4cb491ba29a882cb428ff2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693666855583
+status: 3
+tags: []
+user_id: vboxuser

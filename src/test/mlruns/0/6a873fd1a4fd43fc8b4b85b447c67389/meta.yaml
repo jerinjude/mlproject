@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vboxuser/mlprojects/sample/src/test/mlruns/0/6a873fd1a4fd43fc8b4b85b447c67389/artifacts
+end_time: 1693666180452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a873fd1a4fd43fc8b4b85b447c67389
+run_name: amazing-snake-0
+run_uuid: 6a873fd1a4fd43fc8b4b85b447c67389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693666168024
+status: 3
+tags: []
+user_id: vboxuser
