@@ -1,7 +1,7 @@
 from sklearn.metrics import roc_auc_score
-from airflow.decorators import task
+from prefect import flow, task
 
-@task
+@flow
 def multiclass_auc(data_loader, model,num_classes):
     true_labels = []
     predicted_probs = []

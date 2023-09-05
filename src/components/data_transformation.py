@@ -5,14 +5,14 @@ import torch
 import os
 import pandas as pd
 import ast
-from airflow.decorators import task
+#from prefect import flow, task
 
-@task
+#@task
 def featurization(text, model):
     embeddings = model.encode(text,show_progress_bar=False)
     return embeddings
 
-
+#@task
 def create_dataloader(
     run_dir,
     df_train,
@@ -86,7 +86,7 @@ def create_dataloader(
 
     return train_dataloader, valid_dataloader
 
-@task
+#@task
 def text_processing_pred(title,desc,bert_model):
     text = title + " " + desc
     text = featurization(text, bert_model)

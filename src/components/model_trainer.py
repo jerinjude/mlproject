@@ -5,7 +5,7 @@ from sklearn.metrics import roc_auc_score
 import torch
 import tensorboard
 from torch.utils.tensorboard import SummaryWriter
-from airflow.decorators import task
+from prefect import flow, task
 
 # logging.debug('This is a debug message')
 # logging.info('This is an info message')
@@ -13,7 +13,7 @@ from airflow.decorators import task
 # logging.error('This is an error message')
 # logging.critical('This is a critical message')
 
-@task
+@flow
 def model_trainer(
     mlflow_experiment_name,
     num_epochs,
@@ -45,7 +45,6 @@ def model_trainer(
         for batch_X, batch_y in train_dataloader:
             optimizer.zero_grad()
             outputs = model(batch_X)
-            print(outputs)
             loss = criterion(
                 outputs, batch_y
             )  # Use class labels, not one-hot encoded targets

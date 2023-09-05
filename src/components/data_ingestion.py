@@ -1,9 +1,9 @@
 import pandas as pd
 import os
 import logging
-from airflow.decorators import task
+from prefect import flow, task
 
-@task
+@task(retries=3,retry_delay_seconds=2)
 def read_and_process_data(parent_dir: str, filename: str, logger) -> pd.DataFrame:
     """
     This function will read and prepare text for training
