@@ -1,6 +1,5 @@
 import sys
 from pathlib import Path
-from sentence_transformers import SentenceTransformer
 import torch
 import numpy as np
 import torch.nn as nn
@@ -25,7 +24,6 @@ app=Flask('prediction')
 @app.route('/predict',methods=['POST'])
 def predict_endpoint():
     input=request.get_json()
-    print(input)
     embedding=np.array(input["embedding"])
     pytorch_tensor = torch.from_numpy(embedding).double()
     print(pytorch_tensor)
@@ -40,9 +38,9 @@ def predict_endpoint():
         "time-series",
     ]
     prediction=class_names[prediction_index]
+    print(prediction)
     result={'topic':prediction}
-    print('result',result)
-
+    print(result)
     return jsonify(result)
 
 

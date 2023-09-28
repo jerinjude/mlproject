@@ -9,7 +9,7 @@ input={
     "title":"understanding natural language",
     "description":"Abstractive summarization of radiology reports using auto regressive transformer models"
 }
-url='http://localhost:9696/predict'
+url='http://0.0.0.0:9696/predict'
 response=requests.post(url,json=input)
 print(response.json())
 

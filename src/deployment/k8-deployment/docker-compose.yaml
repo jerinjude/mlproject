@@ -1,0 +1,14 @@
+version: '3'
+services:
+  featurize_app:
+    build:
+      context: ./gateway
+    ports:
+      - "9696:9696"
+    depends_on:
+      - prediction_app
+  prediction_app:
+    build:
+      context: ./model
+    ports:
+      - "9695:9695"

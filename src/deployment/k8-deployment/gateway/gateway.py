@@ -32,14 +32,11 @@ def recieve_text_featurize():
     text_embd=feature(title,description)
     #numpy_array = text_embd.numpy().tolist()
     result={'embedding':text_embd.numpy().tolist()}
-    print('embedding',result)
-    url='http://localhost:9695/predict'
+    url='http://prediction_app:9695/predict'
     response=requests.post(url,json=result)
-    print(response)
     if response.status_code == 200:
     # Extract JSON-serializable data from the response
         response_data = response.json()
-        print(response_data)
         return jsonify(response_data)
     else:
         return jsonify(error=f"HTTP Error: {response.status_code}")

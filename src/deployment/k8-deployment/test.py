@@ -9,8 +9,9 @@ input={
     "title":"understanding natural language",
     "description":"Abstractive summarization of radiology reports using auto regressive transformer models"
 }
-url='http://localhost:9696/featurize'
+url='http://0.0.0.0:9696/featurize'
 response=requests.post(url,json=input)
+#print(response)
 print(response.json())
 
 '''from sentence_transformers import SentenceTransformer
